@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-hi kashish here
-append this content
-=======
-new text totally different
->>>>>>> activity1
